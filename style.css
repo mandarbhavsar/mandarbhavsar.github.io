@@ -1,0 +1,45 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f8f9fa;
+  color: #333;
+}
+header {
+  background-color: #004085;
+  color: white;
+  padding: 40px 20px;
+  text-align: center;
+}
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+header p {
+  font-size: 1.2em;
+}
+section {
+  padding: 40px 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+h2 {
+  color: #004085;
+}
+.case-study, .artifact {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+}
+footer {
+  background: #343a40;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+a {
+  color: #004085;
+}
